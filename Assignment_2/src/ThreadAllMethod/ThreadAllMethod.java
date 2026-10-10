@@ -282,7 +282,7 @@ public class ThreadAllMethods {
         System.out.println();
 
 
-        // ==================== DEPRECATED (Don't use korbo, only for known) ====================
+        // ==================== DEPRECATED  ====================
         System.out.println("--- DEPRECATED Methods (DO NOT USE) ---");
         System.out.println("  stop()           - unsafe, forcibly stop thread");
         System.out.println("  suspend()        - deadlock occurs, so deprecated");
